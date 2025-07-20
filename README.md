@@ -9,7 +9,7 @@
 
 游戏画面展示：
 
-![image-20250720223917897](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20250720223917897.png)
+<img width="722" height="1326" alt="image" src="https://github.com/user-attachments/assets/d037c448-94d7-4298-8ea7-9d0ef4c10081" />
 
 ## 游戏核心功能
 
